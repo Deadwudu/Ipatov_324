@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\Study\MDK01.01\ConsoleAppGitTochlki\ConsoleAppGitTochlki\bin\Debug\ConsoleAppGitTochlki.exe.config
+C:\Users\admin\Documents\Study\MDK01.01\ConsoleAppGitTochlki\ConsoleAppGitTochlki\bin\Debug\ConsoleAppGitTochlki.exe
+C:\Users\admin\Documents\Study\MDK01.01\ConsoleAppGitTochlki\ConsoleAppGitTochlki\bin\Debug\ConsoleAppGitTochlki.pdb
+C:\Users\admin\Documents\Study\MDK01.01\ConsoleAppGitTochlki\ConsoleAppGitTochlki\obj\Debug\ConsoleAppGitTochlki.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Study\MDK01.01\ConsoleAppGitTochlki\ConsoleAppGitTochlki\obj\Debug\ConsoleAppGitTochlki.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Study\MDK01.01\ConsoleAppGitTochlki\ConsoleAppGitTochlki\obj\Debug\ConsoleAppGitTochlki.exe
+C:\Users\admin\Documents\Study\MDK01.01\ConsoleAppGitTochlki\ConsoleAppGitTochlki\obj\Debug\ConsoleAppGitTochlki.pdb
