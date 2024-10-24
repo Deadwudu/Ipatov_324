@@ -11,7 +11,7 @@ class Program
         int y1 = random.Next(100);
         int x2 = random.Next(100);
         int y2 = random.Next(100);
-
+        //две точки
         double distance = Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
 
         Console.WriteLine($"Точка 1: ({x1}, {y1})");
